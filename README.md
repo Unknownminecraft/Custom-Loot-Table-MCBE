@@ -1,9 +1,3 @@
-**✅ Edited GitHub README Description**
-
-> Project name changed: **Custom Loot Table**
-> Main purpose: **Only adds Armor Trims to armor loot. For other features, a separate link is provided.**
-
----
 
 <div align="center">
   <a href="https://unknownminecraft.github.io/Custom-Loot-Table-MCBE/#">
@@ -76,7 +70,3 @@ Click below to open the web-based tool:
 <a href="https://discord.gg/jx4p9x9fQv" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord Server" height="30" width="40" />
 </a>
-
----
-
-Let me know if you want a **lighter version** or add **screenshots** or **GIFs**.
