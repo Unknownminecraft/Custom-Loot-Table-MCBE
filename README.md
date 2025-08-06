@@ -34,14 +34,16 @@
 
 > \[!IMPORTANT]
 > This tool is focused **only on adding armor trims** to the loot tables in **Minecraft: Bedrock Edition**.
-> For full loot table customization, visit the [main tool here](https://bedrock-oss.github.io/bedrock-loot-gen/#). _(not my)
+> For full loot table customization, visit the [main tool here](https://bedrock-oss.github.io/bedrock-loot-gen/#). _(not my)_
 
 ---
 
 ## 🔧 Features
 
 * ✅ Adds **Armor Trims** to loot of armor items
-* 💾 Instant `.mcpack` file download
+* 💾 Instant `.mcpack` file download.
+### use [this web tool](https://unknownminecraft.github.io/Json-to-Addon-/) to make instant addon packs!
+* ✅ 🅲🅾🅿🆈 full code 
 * 🖱️ Easy, no-code web interface
 * 📦 Compatible with Minecraft: Bedrock Edition
 * 🔗 Lightweight and focused tool
