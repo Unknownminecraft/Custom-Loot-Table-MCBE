@@ -12,16 +12,6 @@
     <a href="https://github.com/unknownminecraft/-WebTool-Custom-Recipe-Maker-/issues">Request Feature</a>
   </p>
 </div>
-
----
-
-<div align="center">
-  <img src="https://img.shields.io/github/stars/unknownminecraft/-WebTool-Custom-Recipe-Maker-?style=for-the-badge" alt="Stars">
-  <img src="https://img.shields.io/github/forks/unknownminecraft/-WebTool-Custom-Recipe-Maker-?style=for-the-badge" alt="Forks">
-  <img src="https://img.shields.io/github/issues/unknownminecraft/-WebTool-Custom-Recipe-Maker-?style=for-the-badge" alt="Issues">
-  <img src="https://img.shields.io/github/license/unknownminecraft/-WebTool-Custom-Recipe-Maker-?style=for-the-badge" alt="License">
-</div>
-
 ---
 
 <div align="center">
