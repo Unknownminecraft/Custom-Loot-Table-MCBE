@@ -40,7 +40,7 @@
 
 > \[!IMPORTANT]
 > This tool is focused **only on adding armor trims** to the loot tables in **Minecraft: Bedrock Edition**.
-> For full loot table customization or recipes, visit the [main tool here](https://unknownminecraft.github.io/-WebTool-Custom-Recipe-Maker/#).
+> For full loot table customization, visit the [main tool here](https://bedrock-oss.github.io/bedrock-loot-gen/#). _(not my)
 
 ---
 
@@ -65,11 +65,6 @@ Click below to open the web-based tool:
 </p>
 
 ---
-
-## 📌 Notes
-
-* This tool does **not** generate general loot or custom recipes.
-* For other loot features: [Click Here](https://unknownminecraft.github.io/-WebTool-Custom-Recipe-Maker/#)
 
 ---
 
