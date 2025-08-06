@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://unknownminecraft.github.io/-WebTool-Custom-Recipe-Maker/#">
+  <a href="https://unknownminecraft.github.io/Custom-Loot-Table-MCBE/#">
     <img src="https://raw.githubusercontent.com/unknownminecraft/-WebTool-Custom-Recipe-Maker-/main/.github/images/logo.png" alt="Logo" width="150" height="150">
   </a>
   <h1 align="center">WebTool - Custom Recipe Maker</h1>
